@@ -98,15 +98,3 @@ El proyecto está listo para usar y cumple con todos los requisitos que menciona
 1. Clonar el repositorio
 2. Instalar dependencias: `pip install -r requirements.txt`
 3. Ejecutar el notebook: `jupyter notebook notebooks/EDA_Laptops.ipynb`
-
-## Hallazgos Principales
-
-[Se completará después del análisis]
-
-## Autor
-
-[Tu nombre]
-
-## Fecha
-
-[Fecha del proyecto] 
